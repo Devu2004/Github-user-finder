@@ -6,7 +6,7 @@ A sleek, responsive web application to search and view GitHub user profiles in r
 
 ## 📸 Preview
 
-![Preview](screenshot.png)
+![Preview](/Screenshot.png)
 
 ---
 
