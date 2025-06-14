@@ -5,7 +5,7 @@ let card = document.querySelector(".card");
 function fetchUserProfile(username){
     return fetch(`https://api.github.com/users/${username}`).then(function(raw){
         if(!raw.ok){
-            throw new Error("User not found");
+            throw alert("User not found");
         }
         else{
             return raw.json();
