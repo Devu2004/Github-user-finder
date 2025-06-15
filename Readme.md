@@ -20,7 +20,9 @@ A sleek, responsive web application to search and view GitHub user profiles in r
   - Followers and following
   - Location, company, and blog (if available)
 - 💡 Fully responsive layout using Tailwind CSS
-- ⚡ Smooth UI and clean design
+- ⚡ Smooth UI and clean design By clicking on username you redirected on profile 
+- ⚡ By clicking on username you redirected on profile 
+
 
 ---
 
